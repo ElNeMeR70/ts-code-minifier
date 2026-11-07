@@ -1,0 +1,20 @@
+{
+  "name": "ts-code-minifier",
+  "version": "1.0.0",
+  "description": "JavaScript code minifier with dead-code elimination",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "minifier", "javascript", "optimization", "tooling"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-code-minifier.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
